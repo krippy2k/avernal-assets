@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/projects/avernal/avernal-assets/build/_deps/avernal_core-subbuild/CMakeFiles/avernal_core-populate"
+		},
+		{
+			"file" : "D:/projects/avernal/avernal-assets/build/_deps/avernal_core-subbuild/CMakeFiles/a31425b90b6189fdac76569dcd3e0f5a/avernal_core-populate.rule"
+		},
+		{
+			"file" : "D:/projects/avernal/avernal-assets/build/_deps/avernal_core-subbuild/CMakeFiles/e6e7990eedf2ee35ecce21bba24a88c6/avernal_core-populate-complete.rule"
+		},
+		{
+			"file" : "D:/projects/avernal/avernal-assets/build/_deps/avernal_core-subbuild/CMakeFiles/f4f8be7f6562fb4094119c6c12cc7aae/avernal_core-populate-build.rule"
+		},
+		{
+			"file" : "D:/projects/avernal/avernal-assets/build/_deps/avernal_core-subbuild/CMakeFiles/f4f8be7f6562fb4094119c6c12cc7aae/avernal_core-populate-configure.rule"
+		},
+		{
+			"file" : "D:/projects/avernal/avernal-assets/build/_deps/avernal_core-subbuild/CMakeFiles/f4f8be7f6562fb4094119c6c12cc7aae/avernal_core-populate-download.rule"
+		},
+		{
+			"file" : "D:/projects/avernal/avernal-assets/build/_deps/avernal_core-subbuild/CMakeFiles/f4f8be7f6562fb4094119c6c12cc7aae/avernal_core-populate-install.rule"
+		},
+		{
+			"file" : "D:/projects/avernal/avernal-assets/build/_deps/avernal_core-subbuild/CMakeFiles/f4f8be7f6562fb4094119c6c12cc7aae/avernal_core-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/projects/avernal/avernal-assets/build/_deps/avernal_core-subbuild/CMakeFiles/f4f8be7f6562fb4094119c6c12cc7aae/avernal_core-populate-patch.rule"
+		},
+		{
+			"file" : "D:/projects/avernal/avernal-assets/build/_deps/avernal_core-subbuild/CMakeFiles/f4f8be7f6562fb4094119c6c12cc7aae/avernal_core-populate-test.rule"
+		},
+		{
+			"file" : "D:/projects/avernal/avernal-assets/build/_deps/avernal_core-subbuild/CMakeFiles/f4f8be7f6562fb4094119c6c12cc7aae/avernal_core-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"avernal_core-populate"
+		],
+		"name" : "avernal_core-populate"
+	}
+}

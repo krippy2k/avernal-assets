@@ -1,0 +1,5 @@
+D:/projects/avernal/avernal-assets/build/CMakeFiles/avernal-assets.dir
+D:/projects/avernal/avernal-assets/build/CMakeFiles/ALL_BUILD.dir
+D:/projects/avernal/avernal-assets/build/CMakeFiles/ZERO_CHECK.dir
+D:/projects/avernal/avernal-assets/build/_deps/avernal_core-build/CMakeFiles/avernal-core.dir
+D:/projects/avernal/avernal-assets/build/_deps/avernal_core-build/CMakeFiles/ALL_BUILD.dir

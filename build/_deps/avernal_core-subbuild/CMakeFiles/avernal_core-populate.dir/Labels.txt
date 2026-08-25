@@ -1,0 +1,14 @@
+# Target labels
+ avernal_core-populate
+# Source files and their labels
+D:/projects/avernal/avernal-assets/build/_deps/avernal_core-subbuild/CMakeFiles/avernal_core-populate
+D:/projects/avernal/avernal-assets/build/_deps/avernal_core-subbuild/CMakeFiles/a31425b90b6189fdac76569dcd3e0f5a/avernal_core-populate.rule
+D:/projects/avernal/avernal-assets/build/_deps/avernal_core-subbuild/CMakeFiles/e6e7990eedf2ee35ecce21bba24a88c6/avernal_core-populate-complete.rule
+D:/projects/avernal/avernal-assets/build/_deps/avernal_core-subbuild/CMakeFiles/f4f8be7f6562fb4094119c6c12cc7aae/avernal_core-populate-build.rule
+D:/projects/avernal/avernal-assets/build/_deps/avernal_core-subbuild/CMakeFiles/f4f8be7f6562fb4094119c6c12cc7aae/avernal_core-populate-configure.rule
+D:/projects/avernal/avernal-assets/build/_deps/avernal_core-subbuild/CMakeFiles/f4f8be7f6562fb4094119c6c12cc7aae/avernal_core-populate-download.rule
+D:/projects/avernal/avernal-assets/build/_deps/avernal_core-subbuild/CMakeFiles/f4f8be7f6562fb4094119c6c12cc7aae/avernal_core-populate-install.rule
+D:/projects/avernal/avernal-assets/build/_deps/avernal_core-subbuild/CMakeFiles/f4f8be7f6562fb4094119c6c12cc7aae/avernal_core-populate-mkdir.rule
+D:/projects/avernal/avernal-assets/build/_deps/avernal_core-subbuild/CMakeFiles/f4f8be7f6562fb4094119c6c12cc7aae/avernal_core-populate-patch.rule
+D:/projects/avernal/avernal-assets/build/_deps/avernal_core-subbuild/CMakeFiles/f4f8be7f6562fb4094119c6c12cc7aae/avernal_core-populate-test.rule
+D:/projects/avernal/avernal-assets/build/_deps/avernal_core-subbuild/CMakeFiles/f4f8be7f6562fb4094119c6c12cc7aae/avernal_core-populate-update.rule
