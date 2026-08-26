@@ -61,7 +61,7 @@ AssetType asset_type_from_extension(std::string_view extension) noexcept {
     
     // Mesh formats
     if (extension == ".obj" || extension == ".fbx" || extension == ".gltf" ||
-        extension == ".glb" || extension == ".mesh") {
+        extension == ".glb" || extension == ".mesh" || extension == ".avmesh") {
         return AssetType::mesh;
     }
     
