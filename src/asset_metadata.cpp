@@ -39,6 +39,7 @@ const char* to_string(AssetType type) noexcept {
         case AssetType::audio:    return "audio";
         case AssetType::scene:    return "scene";
         case AssetType::prefab:   return "prefab";
+        case AssetType::model:    return "model";
     }
     return "unknown";
 }
@@ -55,7 +56,8 @@ AssetType asset_type_from_extension(std::string_view extension) noexcept {
     
     // Texture formats
     if (extension == ".png" || extension == ".jpg" || extension == ".jpeg" ||
-        extension == ".bmp" || extension == ".tga" || extension == ".dds") {
+        extension == ".bmp" || extension == ".tga" || extension == ".dds" ||
+        extension == ".avtex") {
         return AssetType::texture;
     }
     
@@ -66,7 +68,7 @@ AssetType asset_type_from_extension(std::string_view extension) noexcept {
     }
     
     // Material formats
-    if (extension == ".mat" || extension == ".material") {
+    if (extension == ".mat" || extension == ".material" || extension == ".avmat") {
         return AssetType::material;
     }
     
@@ -83,13 +85,18 @@ AssetType asset_type_from_extension(std::string_view extension) noexcept {
     }
     
     // Scene formats
-    if (extension == ".scene") {
+    if (extension == ".scene" || extension == ".avscene") {
         return AssetType::scene;
     }
     
     // Prefab formats
-    if (extension == ".prefab") {
+    if (extension == ".prefab" || extension == ".avprefab") {
         return AssetType::prefab;
+    }
+
+    // Model formats
+    if (extension == ".avmodel") {
+        return AssetType::model;
     }
     
     return AssetType::unknown;

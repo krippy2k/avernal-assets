@@ -70,7 +70,7 @@ private:
     std::unordered_map<AssetType, std::unique_ptr<IAssetLoader>> loaders_;
     std::unordered_map<AssetId, LoadedAsset> loaded_assets_;
     
-    mutable std::mutex mutex_;
+    mutable std::recursive_mutex mutex_;
 };
 
 // Template implementations

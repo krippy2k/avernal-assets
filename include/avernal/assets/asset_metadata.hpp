@@ -18,6 +18,7 @@ enum class AssetType {
     audio,
     scene,
     prefab,
+    model,
 };
 
 /// Metadata associated with an asset
